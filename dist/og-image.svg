@@ -1,0 +1,27 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0a0e1a"/>
+
+  <circle cx="100" cy="100" r="200" fill="#1e3a8a" opacity="0.1"/>
+  <circle cx="1100" cy="530" r="150" fill="#2563eb" opacity="0.08"/>
+
+  <g transform="translate(80, 240)">
+    <rect x="0" y="0" width="100" height="100" rx="22" fill="#0f1525" stroke="#3b82f6" stroke-width="2"/>
+    <path d="M50 15 L78 38 L72 38 L72 82 L28 82 L28 38 L22 38 Z" fill="#3b82f6" opacity="0.9"/>
+    <rect x="38" y="42" width="10" height="10" rx="2" fill="#60a5fa" opacity="0.8"/>
+    <rect x="52" y="42" width="10" height="10" rx="2" fill="#60a5fa" opacity="0.6"/>
+    <rect x="44" y="58" width="12" height="18" rx="2" fill="#1e40af" opacity="0.7"/>
+    <path d="M15 88 L35 74 L50 78 L82 52" stroke="#60a5fa" stroke-width="3" stroke-linecap="round" fill="none"/>
+    <circle cx="82" cy="52" r="4" fill="#60a5fa"/>
+  </g>
+
+  <text x="220" y="290" font-family="Georgia, serif" font-size="64" font-weight="bold" fill="white">Patrimoine</text>
+  <text x="220" y="340" font-family="system-ui, sans-serif" font-size="24" fill="#94a3b8">Documentation officielle</text>
+
+  <text x="220" y="390" font-family="system-ui, sans-serif" font-size="18" fill="#64748b">
+    Décrivez, simulez et comprenez votre patrimoine
+  </text>
+
+  <rect x="220" y="420" width="200" height="2" rx="1" fill="#3b82f6" opacity="0.5"/>
+
+  <text x="220" y="460" font-family="monospace" font-size="16" fill="#475569">v1.0 · Projet de recherche appliquée</text>
+</svg>
